@@ -1,4 +1,4 @@
 # titcollege
 This is my first repository.
 <br>
-My name is Tamar Das
+Author name: Tamar Das
